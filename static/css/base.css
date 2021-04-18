@@ -47,6 +47,10 @@ body {
     color: #7B3F00 !important;
 }
 
+.text-black {
+    color: #000 !important;
+}
+
 .border-brown {
     border: 1
 }
