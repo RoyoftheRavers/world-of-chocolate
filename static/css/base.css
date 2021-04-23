@@ -27,15 +27,15 @@ body {
     width: fit-content;
 }
 
-.explore-chocolate-button {
+.discover-chocolate-button {
     background: #7B3F00;
     color: white;
     min-width: 260px;
 }
 
-.explore-chocolate-button:hover,
-.explore-chocolate-button:active,
-.explore-chocolate-button:focus,
+.discover-chocolate-button:hover,
+.discover-chocolate-button:active,
+.discover-chocolate-button:focus,
 .btn-brown:hover,
 .btn-brown:active,
 .btn-brown:focus {
