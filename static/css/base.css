@@ -33,14 +33,19 @@ body {
     min-width: 260px;
 }
 
+.btn-brown {
+    background: #7B3F00;
+    color: white;
+}
+
 .discover-chocolate-button:hover,
 .discover-chocolate-button:active,
 .discover-chocolate-button:focus,
 .btn-brown:hover,
 .btn-brown:active,
 .btn-brown:focus {
-    background: #7B3F00;
-    color: white;
+    background: white;
+    color: #7B3F00 !important;
 }
 
 .text-brown {
